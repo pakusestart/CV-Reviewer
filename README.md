@@ -1,5 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="CV Reviewer 2.0 Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 
 # 📝 CV Reviewer 2.0
 **Transform your resume from "Seen" to "Hired" with AI-powered insights.**
@@ -57,10 +55,3 @@ Follow these steps to get a local copy up and running.
     npm run dev
     ```
 
-## 🌐 Deployment
-
-You can view and interact with the core logic in AI Studio:
-[View in AI Studio](https://ai.studio/apps/632a4c91-5ac7-4593-a292-ffd08ef7e36c)
-
----
-<p align="center">Built with ⚡ by YourName</p>
